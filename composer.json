@@ -1,0 +1,11 @@
+{
+  "name": "Exam",
+  "autoload": {
+    "psr-4": {
+      "Exam\\": "src/"
+    }
+  },
+  "require": {
+    "ramsey/uuid": "3.6.1"
+  }
+}
